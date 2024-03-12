@@ -8,8 +8,8 @@ This is a public repository for "Umreženi embeded sistemi" course
 
 ### Software
 * Arduino IDE
-* In Arduino IDE install the board:  'File -> Preferences -> Additional Boards Manager URLs -> https://dl.espressif.com/dl/package_esp32_index.json'
-* Select your board: 'Tools -> Board -> Boards Manager -> ESP32'
-* Install required libraries: 'Sketch -> Include Library -> Manage Libraries Heltec ESP32 Dev-Boards'
+* In Arduino IDE install the board:  ```File -> Preferences -> Additional Boards Manager URLs -> https://dl.espressif.com/dl/package_esp32_index.json```
+* Select your board: ```Tools -> Board -> Boards Manager -> ESP32```
+* Install required libraries: ```Sketch -> Include Library -> Manage Libraries Heltec ESP32 Dev-Boards```
 
 
