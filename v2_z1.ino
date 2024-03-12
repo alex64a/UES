@@ -1,3 +1,9 @@
+//---------------------------------------------------------------
+//                           VEŽBA 2
+//                          ZADATAK 1
+//---------------------------------------------------------------
+//  Modifikovati aplikaciju za sinhronizaciju vremena tako da se
+//  aktuelno vreme i datum ispisuju na OLED displeju.
 
 #include <WiFi.h>
 #include "time.h"
