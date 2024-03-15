@@ -14,8 +14,8 @@
 
 #define uS_TO_S_FACTOR 1000000  //faktor konverzije iz mikrosekundi u sekunde
 
-const char* ssid = "lesswireless";
-const char* password = "backamaterina";
+const char* ssid = "enter_wifi";
+const char* password = "enter_password";
 
 const char* ntpServer = "pool.ntp.org";
 const long gmtOffset_sec = 3600;
