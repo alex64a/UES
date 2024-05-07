@@ -1,9 +1,19 @@
-/**
- * BasicHTTPClient.ino
- *
- *  Created on: 24.05.2015
- *
- */
+//---------------------------------------------------------------
+//                         VEZBA 5
+//                        ZADATAK 1
+//---------------------------------------------------------------
+//• Napisati program za ESP32, koji korišćenjem ThingSpeak 
+//  prosleđuje vrednosti cloud aplikaciji, prateći pozive
+//  HTTP zahteva na istovetan način kao što je opisano na
+//  prethodnim slajdovima.
+//• Modifikovati program tako da kontinualno prosleđuje 
+//  vrednosti promenljive Senzor1 koja prati sinusnu funkciju
+//  sa intervalom od 256 tačaka i opsegom vrednosti [-10, 10]. 
+//• Napisati program za ESP32 koji na OLED displeju iscrtava 
+//  grafik koji sadrži vrednosti poslednjih 10tačaka prosleđenih 
+//  ThingSpeak kanalu.
+
+
 
 #include <Arduino.h>
 
